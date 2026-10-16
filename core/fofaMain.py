@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2023/9/24 22:13
-# @Author  : Cl0udG0d
-# @File    : fofaMain.py
-# @Github: https://github.com/Cl0udG0d
+# @Time    : 2026/10/16 20:20
+# @Author  : xiangcaiee
+# @Github: https://github.com/xiangcaiee
 import json
 import os
 import random
